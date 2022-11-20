@@ -1,7 +1,7 @@
 <p align="center"><img src="intro1.png"></p>
 
   <p align="left">
-    <img width=140px></img>
+    <img width=120px></img>
     <a href="https://play.google.com/store/apps/details?id=com.softsquared.niceduck.android.sparky">
       <img src="playstore.png">
     </a>
